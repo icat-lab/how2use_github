@@ -10,6 +10,11 @@
 ## mediawiki記法
 - [Mediawiki記法 - Masspedia](http://axnsword.sakura.ne.jp/mp/index.php?title=Mediawiki%E8%A8%98%E6%B3%95)
 
+## texteditor
+### Sublime text3
+- [Sublime Text で Markdown を快適にする3つのパッケージ - 情報系大学院生のWebメモ](http://webmem.hatenablog.com/entry/sublime-text-markdown)
+- [Installation - Package Control](https://packagecontrol.io/installation#st3)
+
 
 ## ウェブメディアを使う時の心構え
 以下、本名を明かさない前提で、かつはてな使う場合のことで書いてます。ここは研究室の公開GitHub repositoryなので、既に身元が公開されている前提になるのですが、その違いを念頭に置いてチェックしてください。
