@@ -10,6 +10,9 @@
 ## mediawiki記法
 - [Mediawiki記法 - Masspedia](http://axnsword.sakura.ne.jp/mp/index.php?title=Mediawiki%E8%A8%98%E6%B3%95)
 
+## license
+- [オープンソースライセンス比較用早見表](https://docs.google.com/spreadsheets/d/1smp9rjunA2DeagL65gy2fqUC-7i-90gQZk2uJ81hE0M/htmlview?sle=true#gid=0)
+
 ## texteditor
 ### Sublime text3
 - [Sublime Text で Markdown を快適にする3つのパッケージ - 情報系大学院生のWebメモ](http://webmem.hatenablog.com/entry/sublime-text-markdown)
