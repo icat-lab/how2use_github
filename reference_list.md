@@ -17,6 +17,8 @@
 ### Sublime text3
 - [Sublime Text で Markdown を快適にする3つのパッケージ - 情報系大学院生のWebメモ](http://webmem.hatenablog.com/entry/sublime-text-markdown)
 - [Installation - Package Control](https://packagecontrol.io/installation#st3)
+#### markdown記述用設定
+- [マークダウンエディタとして使う方法 [Sublime Text 3 の参考書（実践編）Wiki]](http://futago-life.com/sublime-text3-wiki/how-to/markdown)
 
 
 ## ウェブメディアを使う時の心構え
