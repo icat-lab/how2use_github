@@ -19,6 +19,7 @@
 - [Atom](https://atom.io/)
 - [AtomでMarkdown+数式を利用する - Qiita](http://qiita.com/noppefoxwolf/items/335323b98f0400a6f07d)
 - [[Atom Editor] 俺の設定とプラグインをさらす - Qiita](http://qiita.com/agektmr/items/4da2c362fef6598fc382)
+  - [wordcount](https://atom.io/packages/wordcount)
 
 
 ### Sublime text3
